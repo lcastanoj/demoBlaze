@@ -1,5 +1,5 @@
 # Automation Project with Java, Cucumber, Selenium, Gradle, and Serenity
-This project is designed to automate tests on the "SauceDemo" web application. It uses Java as the programming language, Cucumber as the testing framework, Selenium for browser interaction, and Serenity under the POM pattern to improve code readability and maintenance.
+This project is designed to automate tests on the "DemoBlaze" web application. It uses Java as the programming language, Cucumber as the testing framework, Selenium for browser interaction, and Serenity under the POM pattern to improve code readability and maintenance.
 
 ## Prerequisites
 Make sure to have the following components installed before running the tests:
